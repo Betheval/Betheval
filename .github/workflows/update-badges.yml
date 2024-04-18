@@ -2,8 +2,10 @@ name: Update badges
 
 on:
   schedule:
-    # Runs at 0am UTC every day
+    # Runs at 00:00 every day
     - cron: "0 0 * * *"
+  #Runs manually  
+  workflow_dispatch:
 jobs:
   update-readme:
     name: Update Readme with badges

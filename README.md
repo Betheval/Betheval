@@ -6,6 +6,7 @@ Working with :heart: from a small corner of Málaga, Spain. </p>
 ### Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=java,python,go,js,ts,nodejs,azure,aws,linux,kubernetes,docker,terraform,)](https://skillicons.dev)
 
+### My Credly badges
 <!--START_SECTION:badges-->
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/3abfba41-cd3d-4706-b243-8b30c3ac79fe "AWS Certified Developer – Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/1006ea66-0c8d-4ff8-9279-a33dd26cc9cf "AWS Certified Cloud Practitioner")

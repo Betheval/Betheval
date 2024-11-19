@@ -8,6 +8,7 @@ Working with :heart: from a small corner of Málaga, Spain. </p>
 
 ### My Credly badges
 <!--START_SECTION:badges-->
+[![Discovering DevOps with SAP BTP - Record of Achievement](https://images.credly.com/size/110x110/images/177db474-44c1-41b9-92d2-433543ff2802/image.png)](http://www.credly.com/badges/4f3250e2-a4cb-4cf4-93c0-85924ed222e1 "Discovering DevOps with SAP BTP - Record of Achievement")
 [![Getting Started with SAP Cloud Application Programming Model - Record of Achievement](https://images.credly.com/size/110x110/images/92fcc4d7-128a-4903-9e1f-893aa36db8e2/image.png)](http://www.credly.com/badges/ca40be0c-1a93-4ec0-82eb-9eee8db7f0b5 "Getting Started with SAP Cloud Application Programming Model - Record of Achievement")
 [![Discovering SAP Business Technology Platform - Record of Achievement](https://images.credly.com/size/110x110/images/925249e7-8b3d-45b7-a3f8-25d816116473/image.png)](http://www.credly.com/badges/b9c4a90b-43cc-4a3a-ac5a-79fb1b7cd0b2 "Discovering SAP Business Technology Platform - Record of Achievement")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://www.credly.com/badges/3abfba41-cd3d-4706-b243-8b30c3ac79fe "AWS Certified Developer – Associate")
